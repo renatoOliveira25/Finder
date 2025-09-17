@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Finder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05deea8d8f0a18f5a295c47ff35a07da884df7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Finder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Finder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
