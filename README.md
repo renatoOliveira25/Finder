@@ -36,7 +36,7 @@ Finder/
 ├── README.md
 
 ## ♟️Estrutura
-
+![Diagrama de classes](Document/ClassDiagramFinder.png)
 
 ## 🚀 Próximos Passos
 
